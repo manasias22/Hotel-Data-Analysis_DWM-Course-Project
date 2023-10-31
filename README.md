@@ -1,5 +1,5 @@
-# Hotel-Data-Analysis_DWM-Course-Project
-
+# Hotel Data Analysis
+# Data Warehousing and Mining Course Project
 ## Abstract 
 The hospitality industry relies heavily on data-driven decision-making to enhance guest experiences and improve operational efficiency. This project aims to conduct a comprehensive data analysis for a hotel, with the goal of optimizing its performance. The analysis involves examining various aspects of hotel operations, including occupancy rates, revenue management, customer reviews, and operational expenses. This project leverages data analysis, statistical modeling, and machine learning techniques to provide valuable insights that can be used to make informed decisions in the highly competitive hospitality industry. By optimizing operations and enhancing the guest experience, the hotel can gain a competitive edge and achieve better financial performance.
 ## Problem Statement 
